@@ -8,7 +8,7 @@ I am building software and data analytics platforms with a focus on clarity, usa
 - Data analytics and visualization for space-related applications
 
 ### Approach
-I focus on building and learning in parallel—starting with ground-based systems and software infrastructure—while gradually developing deeper understanding of space systems and related technical domains.
+I focus on building and learning in parallel starting with ground-based systems and software infrastructure while gradually developing deeper understanding of space systems and related technical domains.
 
 ### Areas of Interest
 - Software systems & architecture
