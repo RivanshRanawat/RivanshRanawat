@@ -1,16 +1,26 @@
-## Hi, I'm Rivansh Ranawat 👋
+## Hii, I'm Rivansh Ranawat 👋
 
-<!--
-**RivanshRanawat/RivanshRanawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am building software and data analytics platforms with a focus on clarity, usability, and learning-first design.
 
-Here are some ideas to get you started:
+### What I'm Working On
+- Educational and operational tools for satellite tracking
+- Mission planning workflows (foundational stage)
+- Data analytics and visualization for space-related applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Approach
+I focus on building and learning in parallel—starting with ground-based systems and software infrastructure—while gradually developing deeper understanding of space systems and related technical domains.
+
+### Areas of Interest
+- Software systems & architecture
+- Data analytics and visualization
+- Space systems (ground segment focus)
+- Educational technology
+
+### Vision
+Technology should reduce complexity and increase access to knowledge.  
+This work is a long-term effort to build responsible, accessible, and meaningful technical systems.
+
+### Open To
+- Academic collaboration
+- Technical mentorship
+- Educational partnerships
