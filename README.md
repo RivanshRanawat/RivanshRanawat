@@ -1,26 +1,13 @@
 ## Hii, I'm Rivansh Ranawat 👋
 
-I am building software and data analytics platforms with a focus on clarity, usability, and learning-first design.
+## Working
+I am building software and data analytics platforms with a strong focus on educational and operational use cases, starting with space and satellite systems.
 
-### What I'm Working On
-- Educational and operational tools for satellite tracking
-- Mission planning workflows (foundational stage)
-- Data analytics and visualization for space-related applications
+## Expertise
+Technical focus areas include backend development, data-intensive applications, system architecture, and space-oriented software workflows.
 
-### Approach
-I focus on building and learning in parallel starting with ground-based systems and software infrastructure while gradually developing deeper understanding of space systems and related technical domains.
+## Vision
+I believe effective software should reduce complexity, improve understanding, and support real-world decision-making. With this principle, I am learning and building in parallel focusing on ground-based systems, data workflows, and system design while developing a long-term foundation in space systems and related disciplines.
 
-### Areas of Interest
-- Software systems & architecture
-- Data analytics and visualization
-- Space systems (ground segment focus)
-- Educational technology
-
-### Vision
-Technology should reduce complexity and increase access to knowledge.  
-This work is a long-term effort to build responsible, accessible, and meaningful technical systems.
-
-### Open To
-- Academic collaboration
-- Technical mentorship
-- Educational partnerships
+## Open to Work
+I am particularly interested in collaborating with educators, researchers, and institutions working at the intersection of technology, data, and space applications.
