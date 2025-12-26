@@ -9,5 +9,5 @@ Technical focus areas include backend development, data-intensive applications, 
 ## Vision
 I believe effective software should reduce complexity, improve understanding, and support real-world decision-making. With this principle, I am learning and building in parallel focusing on ground-based systems, data workflows, and system design while developing a long-term foundation in space systems and related disciplines.
 
-## Open to Work
+## Let's connect
 I am particularly interested in collaborating with educators, researchers, and institutions working at the intersection of technology, data, and space applications.
