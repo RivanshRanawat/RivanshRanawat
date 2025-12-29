@@ -1,5 +1,7 @@
 # 👋 Hii, I'm Rivansh Ranawat
 
+### Software Developer | Advanced Systems & Space-Tech
+
 I am building software and data analytics platforms with a strong focus on educational and operational use cases, starting with space and satellite systems.
 
 ## Expertise
