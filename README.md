@@ -1,4 +1,4 @@
-## Hii, I'm Rivansh Ranawat 👋
+# Hii, I'm Rivansh Ranawat 👋
 
 ## Working
 I am building software and data analytics platforms with a strong focus on educational and operational use cases, starting with space and satellite systems.
