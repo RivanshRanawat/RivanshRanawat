@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Rivansh Ranawat
 
+Software Developer | Advanced Systems & SpaceTech | Like to learn & build new things
+
 I am building software and data analytics platforms with a strong focus on educational and operational use cases, starting with space and satellite systems. Technical focus areas include backend development, data-intensive applications, system architecture, and space-oriented software workflows.
 
 
